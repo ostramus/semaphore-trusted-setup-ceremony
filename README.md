@@ -18,14 +18,21 @@
 
 • Ceremony araçlarının hesabınızdaki GitHub Gist'lerini okumasına ve yazmasına izin vermelidir.
 
-## Sistem Güncelleme
+1 ## Sistem Güncelleme
 
 ```bash
 sudo apt update -y && sudo apt upgrade -y
 ```
 
-## Gerekli Paketlerin Kurulumu
+2 ## Gerekli Paketlerin Kurulumu
 
 ```bash
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen file unzip lz4 -y
 ```
+
+3 ## NVM
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+source .bashrc
+````
+
