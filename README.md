@@ -87,7 +87,7 @@ phase2cli contribute -c semaphore-binary-merkle-root-fix
 ## Sıranızı tekrar kontrol etmek için
 
 ```bash
-screen -ceremony
+screen -r ceremony
 ```
 
 
