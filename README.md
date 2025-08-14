@@ -36,3 +36,12 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 source .bashrc
 ````
 
+```bash
+nvm install 18 
+nvm use 18
+```
+
+```bash
+source ~/.bashrc
+```
+
