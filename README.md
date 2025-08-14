@@ -45,3 +45,26 @@ nvm use 18
 source ~/.bashrc
 ```
 
+
+## Ceremony Adımları
+
+• Dosya Oluşturma ;
+```bash
+mkdir ~/trusted-setup && cd ~/trusted-setup
+```
+
+•CLI İndirme
+```bash
+npm install -g @p0tion/phase2cli
+```
+
+•Githup Auth;
+```bash
+phase2cli auth
+```
+
+•Başladıktan Sonra Size Kod Vericek Github Auth ile bağlanmamız lazım 15 Dakika içinde.
+
+•Link : https://github.com/login/device
+
+
