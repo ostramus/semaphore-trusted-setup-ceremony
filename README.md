@@ -82,7 +82,7 @@ phase2cli contribute -c semaphore-binary-merkle-root-fix
 
 •Size sıra verilecek o sıra geldiği zaman işlemleri otomatik olarak kendisi tamamlıyor...
 
-•CTRL Al+D ile ekrandan çıkabilirsiniz.
+•CTRL A+D ile ekrandan çıkabilirsiniz.
 
 ## Sıranızı tekrar kontrol etmek için
 
