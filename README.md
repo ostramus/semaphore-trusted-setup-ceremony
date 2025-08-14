@@ -67,4 +67,28 @@ phase2cli auth
 
 •Link : https://github.com/login/device
 
+## Ceremony Katılım
+
+•Screen Açalım
+```bash
+screen -S ceremony
+```
+
+```bash
+phase2cli contribute -c semaphore-binary-merkle-root-fix
+```
+
+•Ben Random seçtim direkt entere bastım sorduğu kısımda sonra sıraya alıyor.
+
+•Size sıra verilecek o sıra geldiği zaman işlemleri otomatik olarak kendisi tamamlıyor...
+
+•CTRL Al+D ile ekrandan çıkabilirsiniz.
+
+## Sıranızı tekrar kontrol etmek için
+
+```bash
+screen -ceremony
+```
+
+
 
